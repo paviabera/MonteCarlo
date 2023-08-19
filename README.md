@@ -46,14 +46,15 @@ cd monte-carlo-photon-pathway
 
 
 
-Configure the simulation parameters in config.json to match your requirements.
-Contributions
+Configure the simulation parameters to match your requirements.
+
+## Contributions
 Contributions to this project are more than welcome! Whether it's bug fixes, feature enhancements, or general improvements, feel free to submit pull requests. Please ensure that you follow the project's coding standards and guidelines.
 
-License
+## License
 This project is licensed under the MIT License, allowing you to use, modify, and distribute the code as you see fit.
 
-Ready to explore the intricate world of photon-tissue interactions? Feel free to reach out if you have questions, suggestions, or if you'd like to collaborate on enhancing this simulation further!
+Ready to explore the intricate world of photon-tissue interactions? Feel free to reach out if you have questions, or suggestions, or if you'd like to collaborate on enhancing this simulation further!
 
 Author: Pavia Bera
 Contact: paviabera@usf.edu
