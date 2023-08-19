@@ -15,7 +15,7 @@ Welcome to the Monte Carlo Photon Pathway Simulation project! This repository co
 
 ## Introduction
 
-Monte Carlo simulations are widely used in various scientific fields to model complex systems and phenomena that involve random processes. In this project, we utilize the Monte Carlo method to simulate the behavior of photons as they propagate through human tissue. This simulation takes into account multiple factors, such as tissue composition, scattering, absorption, and reflection, to predict the pathway and behavior of photons in a realistic and informative manner.
+Monte Carlo simulations are widely used in various scientific fields to model complex systems and phenomena that involve random processes. In this project, we utilize the Monte Carlo method to simulate the behaviour of photons as they propagate through human tissue. This simulation takes into account multiple factors, such as tissue composition, scattering, absorption, and reflection, to predict the pathway and behaviour of photons in a realistic and informative manner.
 
 ## Usage
 
@@ -51,10 +51,13 @@ Contributions to this project are more than welcome! Whether it's bug fixes, fea
 ## License
 This project is licensed under the MIT License, allowing you to use, modify, and distribute the code as you see fit.
 
-Ready to explore the intricate world of photon-tissue interactions? Feel free to reach out if you have questions, or suggestions, or if you'd like to collaborate on enhancing this simulation further!
+Ready to explore the intricate world of photon-tissue interactions? Feel free to reach out if you have questions or suggestions, or if you'd like to collaborate on enhancing this simulation further!
+
 
 Author: Pavia Bera
+
 Contact: paviabera@usf.edu
+
 LinkedIn: linkedin.com/in/paviabera/
 
 
