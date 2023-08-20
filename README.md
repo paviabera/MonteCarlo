@@ -2,10 +2,13 @@
 
 Welcome to the Monte Carlo Photon Pathway Simulation project! This repository contains a comprehensive Monte Carlo simulation aimed at predicting the pathways of photons as they traverse through human tissue. This simulation has been designed to model the intricate interactions between photons and tissue, providing valuable insights into various biomedical and optical applications.
 
+
+![vid](https://github.com/paviabera/MonteCarlo/blob/master/Images/5min.mp4)
+
 ![fig1](https://github.com/paviabera/MonteCarlo/blob/master/Images/fig1.png)
 
-![fig1](https://github.com/paviabera/MonteCarlo/blob/master/Images/fig2.png)
-![fig1](https://github.com/paviabera/MonteCarlo/blob/master/Images/fig3.png)
+![fig2](https://github.com/paviabera/MonteCarlo/blob/master/Images/fig2.png)
+![fig3](https://github.com/paviabera/MonteCarlo/blob/master/Images/fig3.png)
 
 
 ## Table of Contents
