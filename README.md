@@ -9,7 +9,11 @@ Welcome to the Monte Carlo Photon Pathway Simulation project! This repository co
 
 <img src="https://github.com/paviabera/MonteCarlo/blob/master/Images/fig1.png" alt="Image Alt Text" width="400" height="300">
 
-![fig1](https://github.com/paviabera/MonteCarlo/blob/master/Images/fig1.png)
+<img src="https://github.com/paviabera/MonteCarlo/blob/master/Images/fig2.png" alt="Image Alt Text" width="400" height="300">
+
+<img src="https://github.com/paviabera/MonteCarlo/blob/master/Images/fig3.png" alt="Image Alt Text" width="400" height="300">
+
+
 
 ![fig2](https://github.com/paviabera/MonteCarlo/blob/master/Images/fig2.png)
 ![fig3](https://github.com/paviabera/MonteCarlo/blob/master/Images/fig3.png)
